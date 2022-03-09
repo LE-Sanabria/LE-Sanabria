@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
 <h3 align="center">A passionate salesforce developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=le-sanabria&label=Profile%20views&color=0e75b6&style=flat" alt="le-sanabria" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=le-sanabria&label=Profile%20views&color=0e75b6&style=flat" alt="le-sanabria" /> </p-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=le-sanabria" alt="le-sanabria" /></a> </p>-->
 
-- 🔭 I’m currently working on **Salesforce project**
+<!--- 🔭 I’m currently working on **Salesforce project**
 
 - 🌱 I’m currently learning **Salesforce class,**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **enrique.sanabria28@gmail.com**
 
-- ⚡ Fun fact **I love read fantasy, mystery novels. I listen to rock and latin music.**
+- ⚡ Fun fact **I love read fantasy, mystery novels. I listen to rock and latin music.**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
