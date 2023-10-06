@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
 
 <!--# 💫 About Me:
-Hola!!!<br>Soy un desarrollador Salesforce 
+Hola!!!<br>Soy un desarrollador Salesforce -->
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LE-Sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LE-Sanabria&theme=dark&hide_border=false)<br/>
