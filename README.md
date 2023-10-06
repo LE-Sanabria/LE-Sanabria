@@ -1,4 +1,31 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
+
+<!--# 💫 About Me:
+Hola!!!<br>Soy un desarrollador Salesforce 
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LE-Sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LE-Sanabria&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LE-Sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LE-Sanabria&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
+
+---
+[![](https://visitcount.itsvg.in/api?id=LE-Sanabria&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <!--![Prueba](https://gitwar.herokuapp.com/badge?username=LE-Sanabria&color=green)-->
 
 <!--h3 align="center">A passionate salesforce developer from Spain</h3>
@@ -50,4 +77,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-V2.0.0
+V2.0.1
