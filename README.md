@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
-![Prueba](https://gitwar.herokuapp.com/badge?username=LE-Sanabria&color=green)
+<!--![Prueba](https://gitwar.herokuapp.com/badge?username=LE-Sanabria&color=green)-->
 
 <!--h3 align="center">A passionate salesforce developer from Spain</h3>
 
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+V2.0.0
