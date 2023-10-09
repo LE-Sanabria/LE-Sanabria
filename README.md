@@ -42,7 +42,17 @@ if(coffee.Empty){
 
 ###
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-V2.0.5
+# ¡Hola, Soy [Tu Nombre] 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=radical)
 
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=TU_NOMBRE_DE_USUARIO)
+
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], y aquí encontrarás una muestra de mis proyectos y contribuciones. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+V2.0.6
