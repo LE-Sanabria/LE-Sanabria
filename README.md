@@ -40,6 +40,11 @@ if(coffee.Empty){
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LE-Sanabria.LE-Sanabria&left_color=aquamarine&right_color=aqua"  />
 </div>
 
+![contador](https://visitor-badge.laobi.icu/badge?page_id=LE-Sanabria.LE-Sanabria&left_color=aquamarine&right_color=aqua)
+
+
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=LE-Sanabria)
+
 ###
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -49,10 +54,10 @@ ________________________________________________________________________________
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LE-Sanabria&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LE-Sanabria&layout=compact&theme=radical)
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=LE-Sanabria)
+
 
 ¡Bienvenido a mi perfil de GitHub! Soy Luis Enrique Garcia, y aquí encontrarás una muestra de mis proyectos y contribuciones. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-V2.0.7
+V2.0.8
