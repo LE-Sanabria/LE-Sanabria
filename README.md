@@ -44,15 +44,15 @@ if(coffee.Empty){
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# ¡Hola, Soy [Tu Nombre] 👋
+# ¡Hola, Soy Luis Enrique Garcia 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LE-Sanabria&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LE-Sanabria&layout=compact&theme=radical)
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=TU_NOMBRE_DE_USUARIO)
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=LE-Sanabria)
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], y aquí encontrarás una muestra de mis proyectos y contribuciones. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente.
+¡Bienvenido a mi perfil de GitHub! Soy Luis Enrique Garcia, y aquí encontrarás una muestra de mis proyectos y contribuciones. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-V2.0.6
+V2.0.7
