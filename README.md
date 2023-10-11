@@ -9,11 +9,11 @@ ________________________________________________________________________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />-->
 </div>
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-V2.0.12
+V2.0.13
 
 <!--<h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
 
