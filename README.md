@@ -18,21 +18,19 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LE-Sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LE-Sanabria&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LE-Sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+<!--###
 
 ![contador](https://visitor-badge.laobi.icu/badge?page_id=LE-Sanabria.LE-Sanabria&left_color=aquamarine&right_color=aqua)
 ![Visitas al Perfil](https://komarev.com/ghpvc/?username=LE-Sanabria)
-###
+###-->
 
-¡Bienvenido a mi perfil de GitHub! y aquí encontrarás una muestra de mis proyectos y contribuciones. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o colaboración en mente.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-V2.0.11
+V2.0.12
 
 <!--<h1 align="center">Hi 👋, I'm Luis Enrique Garcia S</h1>
 
