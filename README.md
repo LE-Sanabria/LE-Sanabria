@@ -13,6 +13,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="69" alt="vscode logo"  />
 </div>
 </br>
+<!--
 _________________________________________________________________________________________________________________________
 </br>
 <div align="left">
@@ -20,7 +21,7 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api?username=LE-Sanabria&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LE-Sanabria&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
 </div>
-</br>
+</br>-->
 
 <!--###
 
