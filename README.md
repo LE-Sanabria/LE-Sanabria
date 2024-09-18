@@ -1,5 +1,5 @@
 ![Header](./github-header-image-LE.png)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________
 </br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="69" alt="salesforce logo"  />
@@ -13,8 +13,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="69" alt="vscode logo"  />
 </div>
 </br>
-___________________________________________________________________________________________________________________________________________________
-</br>
+_________________________________________________________________________________________________________________________
 </br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LE-Sanabria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="110" alt="languages graph"  />
